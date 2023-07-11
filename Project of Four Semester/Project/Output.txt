@@ -1,0 +1,13 @@
+
+********** ROOM BILL **********
+This Is your Bill 
+      Name              Age 
+    hammad              23
+     abbas              12
+The Total Bill is : 160000
+
+================
+********** HOTEL BILL **********
+This is Your hotel bill! : 9000
+Total Bill : 169000
+================
